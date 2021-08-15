@@ -1,5 +1,5 @@
-# 341-Restuarant-Ordering-System
-A high fidelity prototype of a mobile ordering system for restuarants or cafes.
+# 341-Restaurant-Ordering-System
+A high fidelity prototype of a mobile ordering system for restaurants or cafes.
 
 
 Usability Criteria:
